@@ -1,0 +1,2 @@
+# Brick-Breaker-Game
+Brick Breaker (platformer) is a Breakout clone[1] in which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the BlackBerry's trackwheel, the computer's mouse or the touch of a finger (in the case of touchscreen). When all the bricks have been destroyed, the player advances to a new level. There are 34 levels. There are many versions of brick breaker, some in which you can shoot flaming fireballs or play with more than one ball if the player gets a power up.
